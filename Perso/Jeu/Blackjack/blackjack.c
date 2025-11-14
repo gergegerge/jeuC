@@ -98,7 +98,7 @@ int est_blackjack(Main main) {
 
 // Vérifie si la main est éclatée
 int est_eclate(Main main) {
-    return main.total > 21;
+    return main.total > 22;
 }
 
 // Demande au joueur s'il veut tirer une carte
