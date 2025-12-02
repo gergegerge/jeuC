@@ -1,0 +1,8 @@
+Ouverture de la session 1
+[2] Polynome cree
+Fermeture de la session 1
+Ouverture de la session 2
+[1] Polynome cree
+[2] Evaluation
+[3] Racine
+Fermeture de la session 2
